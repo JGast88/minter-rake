@@ -23,7 +23,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency "ffi", "~> 1.12", ">= 1.12.2"
   spec.add_dependency "http", "~> 4.4", ">= 4.4.1"
   spec.add_dependency "json", "~> 2.3", ">= 2.3.0"
-  spec.add_dependency "rake", "~> 12.3", ">= 12.3.3"
+  spec.add_dependency "rake", "~> 13"
 
   spec.add_development_dependency "rspec", "~> 3.9", ">= 3.9.0"
 end
